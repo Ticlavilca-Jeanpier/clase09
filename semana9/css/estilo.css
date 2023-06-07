@@ -1,0 +1,26 @@
+/*  selector{
+              propiedad:valor;
+          } */
+ p{
+  color:red;
+ }
+  h1{
+ color: blue;
+ text-decoration-line: underline;
+  text-align: center;
+ }
+.letra{
+color:#21f21a ;
+ font-weight: bold;
+ font-size: 30px;
+}
+ span.letra02{
+color: blue;
+ font-size: 8px;
+}
+ p.letra02{
+color:olive;
+    
+ }
+    
+    
